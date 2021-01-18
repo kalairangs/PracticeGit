@@ -6,11 +6,10 @@ function SampleMessage(probs){
       <Fragment>
           <div className = "card">
               <div className = "card-body">
-                    <h3>Sample Message</h3>
+                    <h3>Sample Message Changed</h3>
               </div>
 
           </div>
-          
       </Fragment>
     );
 };
